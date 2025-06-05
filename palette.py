@@ -15,7 +15,6 @@ def selectColor():
     ventana.title("🎨 Paleta de Colores")
     ventana.geometry("300x120")
     ventana.configure(bg="#f0f0f0")
-    ventana.iconbitmap('assets/icon/icono.ico')
     ventana.overrideredirect(True)
 
 

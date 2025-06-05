@@ -1,0 +1,7 @@
+dist/
+build/
+*.spec
+*.exe
+*.tar.gz
+dist/main.exe
+dist/main.tar.gz
